@@ -1,4 +1,4 @@
-# JS + React + Mantine Template
+## JS + React + Mantine Template
 
 This is a template for projects using [React](https://reactjs.org/) and
 [Mantine](https://mantine.dev/) with JavaScript. It provides a solid,
